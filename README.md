@@ -66,7 +66,7 @@ A variety of Tableau-specific tools and techniques were used to create the infor
 
 Please use the following link to access the Tableau Public workbook for this project:
 
-[Tableau Public workbook link](https://public.tableau.com/app/profile/river.samet/viz/PortfolioProjectTableau_17869074800600/First5Gamesvs_Last5Games)
+[Tableau Public workbook link](https://public.tableau.com/app/profile/river.samet/viz/PortfolioProjectTableau_17869074800600/GrowthoftheOlympicGames)
 
 The `tableau_project_media/` directory in this repository also contains images of each Tableau dashboard created for this project.
 
