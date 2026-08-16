@@ -1,0 +1,1 @@
+Original Olympics dataset files are not uploaded to this repository due to size constraints; please download from Kaggle. `Load_Olympics_Dataset.ipynb` in this repository contains step-by-step instructions for doing so.
