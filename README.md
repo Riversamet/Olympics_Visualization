@@ -16,7 +16,7 @@ This project is based around obtaining, querying, analyzing, and visualizing dat
 - SQLAlchemy
 - Kagglehub
 - python-dotenv
-- Psycopg 2
+- Psycopg2
 
 ## Description
 
